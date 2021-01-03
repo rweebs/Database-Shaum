@@ -1,0 +1,22 @@
+{
+  "name": "database-shaum",
+  "version": "1.0.0",
+  "description": "database shaum",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rweebs/Database-Shaum.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rweebs/Database-Shaum/issues"
+  },
+  "homepage": "https://github.com/rweebs/Database-Shaum#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
