@@ -6,7 +6,7 @@ const PORT=process.env.PORT;
 
 const data=[
     {
-        "month": "00",
+        "month": 0,
         "date":[
             {
                 "day":'13',
@@ -24,7 +24,7 @@ const data=[
         ]
     },
     {
-        "month": "01",
+        "month": 1,
         "date":[
             {
                 "day":'13',
@@ -42,7 +42,7 @@ const data=[
         ]
     },
     {
-        "month": "02",
+        "month": 2,
         "date":[
             {
                 "day":'13',
@@ -60,7 +60,7 @@ const data=[
         ]
     },
     {
-        "month": "03",
+        "month": 3,
         "date":[
             {
                 "day":'13',
@@ -78,7 +78,7 @@ const data=[
         ]
     },
     {
-        "month": "04",
+        "month": 4,
         "date":[
             {
                 "day":'13',
@@ -96,7 +96,7 @@ const data=[
         ]
     },
     {
-        "month": "05",
+        "month": 5,
         "date":[
             {
                 "day":'13',
@@ -114,7 +114,7 @@ const data=[
         ]
     },
     {
-        "month": "06",
+        "month": 6,
         "date":[
             {
                 "day":'13',
@@ -132,7 +132,7 @@ const data=[
         ]
     },
     {
-        "month": "07",
+        "month": 7,
         "date":[
             {
                 "day":'13',
@@ -150,7 +150,7 @@ const data=[
         ]
     },
     {
-        "month": "08",
+        "month": 8,
         "date":[
             {
                 "day":'13',
@@ -168,7 +168,7 @@ const data=[
         ]
     },
     {
-        "month": "09",
+        "month": 9,
         "date":[
             {
                 "day":'13',
@@ -186,7 +186,7 @@ const data=[
         ]
     },
     {
-        "month": "10",
+        "month": 10,
         "date":[
             {
                 "day":'13',
@@ -204,7 +204,7 @@ const data=[
         ]
     },
     {
-        "month": "11",
+        "month": 11,
         "date":[
             {
                 "day":'13',
@@ -222,7 +222,7 @@ const data=[
         ]
     },
     {
-        "month": "12",
+        "month": 12,
         "date":[
             {
                 "day":'13',
